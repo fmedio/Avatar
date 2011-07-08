@@ -1,0 +1,12 @@
+{
+	"name": "avatar",
+	"version": "0.0.1",
+	"dependencies": {
+		"socket.io": "0.6.18",
+		"serialport": "0.2.4",
+		"opts": "1.2.1"
+	},
+    "engines" : {
+        "node" : ">=0.4.80"
+    }
+}

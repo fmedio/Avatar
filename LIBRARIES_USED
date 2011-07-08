@@ -1,12 +1,8 @@
 Blueprint
 jquery
 jquery-ui
-node.js  0.48
-socket.io
 arduino
 
-Serialport
-js-opts
 
 Arduino
 CmdMessenger - https://github.com/dreamcat4/CmdMessenger
